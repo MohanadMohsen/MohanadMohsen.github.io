@@ -5,39 +5,59 @@ Mohanad Mohsen is a student of EECS, Electrical Engineering and Computer Science
 # EDUCATION
 
 B. S., Electrical Engineering (EECS), Suez Canal University, Egypt, Expecting 2020 
+
 General Thanawya Ismailia Secondary School with Score (99.1%) 
 
 # CAREER HISTORY
 
-•	Co-Founder of Free Electrons.
-Free Electrons Team | 3/2018 – Present.
+•	Co-Founder of Free Electrons
 
-•	Co-Founder of Roboco.
-Roboco Team | 2/2018 – Present.
+Free Electrons Team | 3/2018 – Present
 
-•	Electrical Engineer in Shell Eco Marathon.
-SCU Racing Team | 2/2018 – 3/2018.
 
-•	Entrepreneur in Ebda3 6.0 .
-SCU Scientific Team | 2/2018.
+•	Co-Founder of Roboco
 
-•	Programmer in IEEEXtreme 11.0.
-50ShadesOfC Team | 16/10/2017.
+Roboco Team | 2/2018 – Present
 
-•	CEO in Minesweeper: Towards a land of mine free.
-Delta Force Team | 4/2017 – 10/2017.
 
-•	Mechanical & Electrical Engineer in FSAE UK (Formula Student).
-SCU Racing Team | 11/2016 – 6/2017.
+•	Electrical Engineer in Shell Eco Marathon
 
-•	CEO and R&D Engineer in ROV Competition.
-Poseidon ROV Team | 10/2016 – 4/2017.
+SCU Racing Team | 2/2018 – 3/2018
+
+
+•	Entrepreneur in Ebda3 6.0
+
+SCU Scientific Team | 2/2018
+
+
+•	Programmer in IEEEXtreme 11.0
+
+50ShadesOfC Team | 16/10/2017
+
+
+•	CEO in Minesweeper: Towards a land of mine free
+
+Delta Force Team | 4/2017 – 10/2017
+
+
+•	Mechanical & Electrical Engineer in FSAE UK (Formula Student)
+
+SCU Racing Team | 11/2016 – 6/2017
+
+
+•	CEO and R&D Engineer in ROV Competition
+
+Poseidon ROV Team | 10/2016 – 4/2017
+
     
-•	Programmer in IEEEXtreme 10.0.
-Code Gang Team | 24/10/2016.
+•	Programmer in IEEEXtreme 10.0
 
-•	3DSimulator and Game Programmer in NASA Space-Apps.
-Supernova Team | 5/2016.
+Code Gang Team | 24/10/2016
+
+
+•	3DSimulator and Game Programmer in NASA Space-Apps
+
+Supernova Team | 5/2016
 
 
 # INTERESTS
@@ -63,7 +83,7 @@ Member, Institute of Electrical and Electronics Engineers Suez Canal University 
 
 # AWARDS AND HONORS
 
-IEEEXtreme 11.0------date: Oct 1, 2017          issuer: IEEE
+IEEEXtreme 11.0         date: Oct 1, 2017                   issuer: IEEE
 Participated with 50 Shades of C team and took the 1st place on Suez Canal University and 26th on Egypt
     
 Minesweepers IEEE RAS Competition          date: Oct 1, 2017          issuer: IEEE RAS and HADATH
