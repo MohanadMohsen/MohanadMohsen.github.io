@@ -79,29 +79,42 @@ Supernova Team | 5/2016
 
 # SOCIETY ACITIVITIES
 
-Member, Institute of Electrical and Electronics Engineers Suez Canal University Student Branch, 2016-Present. 
+Technical and Logistics member, Institute of Electrical and Electronics Engineers Suez Canal University Student Branch, 2016-Present. 
 
 # AWARDS AND HONORS
 
-IEEEXtreme 11.0         date: Oct 1, 2017                   issuer: IEEE
+IEEEXtreme 11.0 | date: Oct 1, 2017 | issuer: IEEE
+
 Participated with 50 Shades of C team and took the 1st place on Suez Canal University and 26th on Egypt
     
-Minesweepers IEEE RAS Competition          date: Oct 1, 2017          issuer: IEEE RAS and HADATH
+    
+Minesweepers IEEE RAS Competition | date: Oct 1, 2017 | issuer: IEEE RAS and HADATH
+
 took the 12th place on Egypt with Delta Force Team
 
-1st Conference for Students Research          date: May 2017          issuer: Suez Canal University
-Won the 1st place for best poster for Engineering and Information technology category.
 
-MATE ROV Competition 2017          date: Apr 1, 2017          issuer: MATE
+1st Conference for Students Research | date: May 2017 | issuer: Suez Canal University
+
+Won the 1st place for best poster for Engineering and Information technology category
+
+
+MATE ROV Competition 2017 | date: Apr 1, 2017 | issuer: MATE
+
 Took the 12th place on Egypt with Poseidon team
 
-IED 3          date: Mar 2017          issuer: TNT and Engineering Syndicate
-Won the 2nd place for best engineering project for this year.
 
-IEEEXtreem 10.0      date: Oct 2016          issuer: IEEE
+IED 3 | date: Mar 2017 | issuer: TNT and Engineering Syndicate
+
+Won the 2nd place for best engineering project for this year
+
+
+IEEEXtreem 10.0 | date: Oct 2016 | issuer: IEEE
+
 Participated with Code Gang team that came on the 10th place on Egypt and the 1360th on the globe between thousands of competitors.
 
-NASA Space Apps Challenge 1.0          date: Apr 2016            issuer: Eureka Student Club (NASA Space Apps host)
+
+NASA Space Apps Challenge 1.0 | date: Apr 2016 | issuer: Eureka Student Club (NASA Space Apps host)
+
 Participated with Supernova team and awarded the 5th place on Egypt
 
 
