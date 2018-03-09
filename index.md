@@ -1,37 +1,92 @@
-## Welcome to GitHub Pages
+# AUTOBIOGRAPHY
 
-You can use the [editor on GitHub](https://github.com/MohanadMohsen/MohanadMohsen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+    Mohanad Mohsen is a student of EECS, Electrical Engineering and Computer Science at the University of Suez Canal, since Fall 2015.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# EDUCATION
 
-### Markdown
+    B. S., Electrical Engineering (EECS), Suez Canal University, Egypt, Expecting 2020 
+    General Thanawya Ismailia Secondary School with Score (99.1%) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# CAREER HISTORY
 
-```markdown
-Syntax highlighted code block
+    •	Co-Founder of Free Electrons
+    Free Electrons Team | 3/2018 – Present
 
-# Header 1
-## Header 2
-### Header 3
+    •	Co-Founder of Roboco
+    Roboco Team | 2/2018 – Present
 
-- Bulleted
-- List
+    •	Electrical Engineer in Shell Eco Marathon
+    SCU Racing Team | 2/2018 – 3/2018
 
-1. Numbered
-2. List
+    •	Entrepreneur in Ebda3 6.0 
+    SCU Scientific Team | 2/2018
 
-**Bold** and _Italic_ and `Code` text
+    •	Programmer in IEEEXtreme 11.0
+    50ShadesOfC Team | 16/10/2017
 
-[Link](url) and ![Image](src)
-```
+    •	CEO in Minesweeper: Towards a land of mine free
+    Delta Force Team | 4/2017 – 10/2017
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    •	Mechanical & Electrical Engineer in FSAE UK (Formula Student)
+    SCU Racing Team | 11/2016 – 6/2017
 
-### Jekyll Themes
+    •	CEO and R&D Engineer in ROV Competition
+    Poseidon ROV Team | 10/2016 – 4/2017
+    
+    •	Programmer in IEEEXtreme 10.0
+    Code Gang Team | 24/10/2016
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MohanadMohsen/MohanadMohsen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    •	3DSimulator and Game Programmer in NASA Space-Apps
+    Supernova Team | 5/2016
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# INTERESTS
+
+    Electromagnetics
+    VLSI
+    Digital electronics
+    Power electronics
+    Cyber security
+    Quantum computers
+    Quantum optics and quantum information 
+    Coherence and statistical optics
+    Holograms
+    Nonlinear optics 
+    Image processing 
+    Optical image processing
+    Optical communications
+    Vision and cloak methods
+
+# SOCIETY ACITIVITIES
+
+    Member, Institute of Electrical and Electronics Engineers Suez Canal University Student Branch, 2016 - Present. 
+
+# AWARDS AND HONORS
+
+    IEEEXtreme 11.0          date: Oct 1, 2017          issuer: IEEE
+Participated with 50 Shades of C team and took the 1st place on Suez Canal University and 26th on Egypt
+    
+    Minesweepers IEEE RAS Competition          date: Oct 1, 2017          issuer: IEEE RAS and HADATH
+took the 12th place on Egypt with Delta Force Team
+
+    1st Conference for Students Research          date: May 2017          issuer: Suez Canal University
+Won the 1st place for best poster for Engineering and Information technology category.
+
+    MATE ROV Competition 2017          date: Apr 1, 2017          issuer: MATE
+Took the 12th place on Egypt with Poseidon team
+
+    IED 3          date: Mar 2017          issuer: TNT and Engineering Syndicate
+Won the 2nd place for best engineering project for this year.
+
+    IEEEXtreem 10.0      date: Oct 2016          issuer: IEEE
+Participated with Code Gang team that came on the 10th place on Egypt and the 1360th on the globe between thousands of competitors.
+
+    NASA Space Apps Challenge 1.0          date: Apr 2016            issuer: Eureka Student Club (NASA Space Apps host)
+Participated with Supernova team and awarded the 5th place on Egypt
+
+
+# PERSONAL
+Born: May 19, 1997
+Citizenship: Egypt
+Email: [mohanad0mohsen@gmail.com](mohanad0mohsen@gmail.com)
+LinkedIn: [linkedin.com/in/mohanad-mohsen/](https://www.linkedin.com/in/mohanad-mohsen/)
