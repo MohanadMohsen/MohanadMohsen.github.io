@@ -10,7 +10,7 @@ General Thanawya Ismailia Secondary School with Score (99.1%)
 # CAREER HISTORY
 
 •	Co-Founder of Free Electrons
-    Free Electrons Team | 3/2018 – Present
+ 	Free Electrons Team | 3/2018 – Present
 
 •	Co-Founder of Roboco
     Roboco Team | 2/2018 – Present
