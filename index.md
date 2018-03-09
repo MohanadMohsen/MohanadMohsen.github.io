@@ -9,35 +9,35 @@ General Thanawya Ismailia Secondary School with Score (99.1%)
 
 # CAREER HISTORY
 
-    •	Co-Founder of Free Electrons
-Free Electrons Team | 3/2018 – Present
+•	Co-Founder of Free Electrons.
+Free Electrons Team | 3/2018 – Present.
 
-    •	Co-Founder of Roboco
-Roboco Team | 2/2018 – Present
+•	Co-Founder of Roboco.
+Roboco Team | 2/2018 – Present.
 
-    •	Electrical Engineer in Shell Eco Marathon
-SCU Racing Team | 2/2018 – 3/2018
+•	Electrical Engineer in Shell Eco Marathon.
+SCU Racing Team | 2/2018 – 3/2018.
 
-    •	Entrepreneur in Ebda3 6.0 
-SCU Scientific Team | 2/2018
+•	Entrepreneur in Ebda3 6.0 .
+SCU Scientific Team | 2/2018.
 
-    •	Programmer in IEEEXtreme 11.0
-50ShadesOfC Team | 16/10/2017
+•	Programmer in IEEEXtreme 11.0.
+50ShadesOfC Team | 16/10/2017.
 
-    •	CEO in Minesweeper: Towards a land of mine free
-Delta Force Team | 4/2017 – 10/2017
+•	CEO in Minesweeper: Towards a land of mine free.
+Delta Force Team | 4/2017 – 10/2017.
 
-    •	Mechanical & Electrical Engineer in FSAE UK (Formula Student)
-SCU Racing Team | 11/2016 – 6/2017
+•	Mechanical & Electrical Engineer in FSAE UK (Formula Student).
+SCU Racing Team | 11/2016 – 6/2017.
 
-    •	CEO and R&D Engineer in ROV Competition
-Poseidon ROV Team | 10/2016 – 4/2017
+•	CEO and R&D Engineer in ROV Competition.
+Poseidon ROV Team | 10/2016 – 4/2017.
     
-    •	Programmer in IEEEXtreme 10.0
-Code Gang Team | 24/10/2016
+•	Programmer in IEEEXtreme 10.0.
+Code Gang Team | 24/10/2016.
 
-    •	3DSimulator and Game Programmer in NASA Space-Apps
-Supernova Team | 5/2016
+•	3DSimulator and Game Programmer in NASA Space-Apps.
+Supernova Team | 5/2016.
 
 
 # INTERESTS
