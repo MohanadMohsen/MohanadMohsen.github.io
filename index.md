@@ -1,63 +1,101 @@
 # MOHANAD AUTOBIOGRAPHY
 
-Mohanad Mohsen is a student of EECS, Electrical Engineering and Computer Science at the University of Suez Canal, since Fall 2015.
+Mohanad Mohsen is a Electronics and Communications Engineer and M.Sc. student.
 
 # EDUCATION
 
-B. S., Electrical Engineering (EECS), Suez Canal University, Egypt, Expecting 2020 
+**Ain Shams University, Faculty of Engineering		    2021- Expected 2023**
+M.Sc. of Electronics and Communications Engineering, **Very Good (3 GPA / B) 	
 
-General Thanawya Ismailia Secondary School with Score (99.1%) 
+**Suez Canal University, Faculty of Engineering				2015-2020**
+B.Sc. of Electronics and Communications Engineering, **Very Good (2.97 GPA / B-)
+
+General Thanawya  with Score **(99.1%) 
 
 # CAREER HISTORY
 
-•	Co-Founder of Free Electrons
+**Mabrains Digital IC Design Internship**
+*Digital IC Design Engineering Intern*				        **September 2021**
+Open source IC tools, Version Control using git, Linux Command Line, Markdown Language, Scripting using Bash, Google Sky-water PDK.
 
-Free Electrons Team | 3/2018 – Present
+**ONE Lab ASIC Design Course**
+*ASIC Design Engineering Trainee*						**Summer 2019**
+Synopsys tools for ASIC design, Logic Synthesis, Formal Verification, Floor-planning, Power Planning, Placement, CTS, Routing, RC Extraction, STA, and EM/IR.
 
+**Information Technology Institute ITI**
+*IC Design Engineering Intern*						**Summer 2019**
+Library Cell Design, Hand Calculation Analysis, Mentor Graphics Pyxis Tool, 
+Cadence Custom IC Design Tool and Layout Design.
 
-•	Co-Founder of Roboco
+**National Authority for Remote Sensing and Space Sciences NARSS**
+*ECE Engineering Intern* 							**Summer 2018**
+Communication systems, Control systems, Embedded Systems, Cube-Sat Construction and Development.
 
-Roboco Team | 2/2018 – Present
+**ORASCOM Constructions**
+*General Engineer Intern*							**Summer 2016**
+QA, Safety, Planning and project control, Risk management and Contracts.
 
+# Skills
 
-•	Electrical Engineer in Shell Eco Marathon
-
-SCU Racing Team | 2/2018 – 3/2018
-
-
-•	Entrepreneur in Ebda3 6.0
-
-SCU Scientific Team | 2/2018
-
-
-•	Programmer in IEEEXtreme 11.0
-
-50ShadesOfC Team | 16/10/2017
-
-
-•	CEO in Minesweeper: Towards a land of mine free
-
-Delta Force Team | 4/2017 – 10/2017
-
-
-•	Mechanical & Electrical Engineer in FSAE UK (Formula Student)
-
-SCU Racing Team | 11/2016 – 6/2017
-
-
-•	CEO and R&D Engineer in ROV Competition
-
-Poseidon ROV Team | 10/2016 – 4/2017
-
-    
-•	Programmer in IEEEXtreme 10.0
-
-Code Gang Team | 24/10/2016
-
-
-•	3DSimulator and Game Programmer in NASA Space-Apps
-
-Supernova Team | 5/2016
+## Digital IC Design:
+•	Synopsys Design Compiler
+•	Synopsys IC Compiler
+•	Synopsys Prime Time
+•	Synopsys StarRC 
+•	Open-Lane Open-Source Tools 
+•	Altera (Intel) Quartus II
+•	Siemens Modelsim
+•	Mentor (Siemens) Pyxis
+•	Cadence Virtuoso
+•	Verilog HDL
+•	VHDL
+•	ASIC Design Flow
+•	FPGA Design Flow
+•	TCL & Bash Scripting
+•	Gate Level Verification
+## Soft Skills:
+•	Presentation skills
+•	Verbal Comm.
+•	Problem Solving
+•	Project Managing
+•	Team Leadership
+•	Teamwork
+## Hard Skills:
+•	MATLAB
+•	Electronics
+•	Git & Github
+•	Linux Command Line 
+•	C++
+•	Analog Design
+•	Logic Design
+•	DSP
+•	Neural Networks
+•	Microsoft Office 
+•	Markup Language
+## Embedded:
+•	Embedded C
+•	Microcontrollers
+•	Algorithms
+•	Data Structures
+•	Arduino
+## Game Making:
+•	Game Design
+•	Game Dev.
+•	Game Art
+•	Unity3D
+•	C#
+•	3D Modeling
+•	Blender
+•	Unreal Engine 4
+## Mechatronics:
+•	SolidWorks
+## PCB Electronics:
+•	OrCAD
+•	PCB Design
+•	Power Electronics
+•	Proteus
+## Network:
+•	CCNA
 
 
 # INTERESTS
