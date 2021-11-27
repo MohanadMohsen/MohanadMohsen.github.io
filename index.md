@@ -5,35 +5,34 @@ Mohanad Mohsen is a Electronics and Communications Engineer and M.Sc. student.
 # EDUCATION
 
 **Ain Shams University, Faculty of Engineering		    2021- Expected 2023**
-M.Sc. of Electronics and Communications Engineering, **Very Good (3 GPA / B) 	
+- M.Sc. of Electronics and Communications Engineering, **Very Good (3 GPA / B)** 	
 
 **Suez Canal University, Faculty of Engineering				2015-2020**
-B.Sc. of Electronics and Communications Engineering, **Very Good (2.97 GPA / B-)
+- B.Sc. of Electronics and Communications Engineering, **Very Good (2.97 GPA / B-)**
 
-General Thanawya  with Score **(99.1%) 
+**General Thanawya**  with Score **(99.1%)** 
 
 # CAREER HISTORY
 
 **Mabrains Digital IC Design Internship**
 *Digital IC Design Engineering Intern*				        **September 2021**
-Open source IC tools, Version Control using git, Linux Command Line, Markdown Language, Scripting using Bash, Google Sky-water PDK.
+- Open source IC tools, Version Control using git, Linux Command Line, Markdown Language, Scripting using Bash, Google Sky-water PDK.
 
 **ONE Lab ASIC Design Course**
 *ASIC Design Engineering Trainee*						**Summer 2019**
-Synopsys tools for ASIC design, Logic Synthesis, Formal Verification, Floor-planning, Power Planning, Placement, CTS, Routing, RC Extraction, STA, and EM/IR.
+- Synopsys tools for ASIC design, Logic Synthesis, Formal Verification, Floor-planning, Power Planning, Placement, CTS, Routing, RC Extraction, STA, and EM/IR.
 
 **Information Technology Institute ITI**
 *IC Design Engineering Intern*						**Summer 2019**
-Library Cell Design, Hand Calculation Analysis, Mentor Graphics Pyxis Tool, 
-Cadence Custom IC Design Tool and Layout Design.
+- Library Cell Design, Hand Calculation Analysis, Mentor Graphics Pyxis Tool, Cadence Custom IC Design Tool and Layout Design.
 
 **National Authority for Remote Sensing and Space Sciences NARSS**
 *ECE Engineering Intern* 							**Summer 2018**
-Communication systems, Control systems, Embedded Systems, Cube-Sat Construction and Development.
+- Communication systems, Control systems, Embedded Systems, Cube-Sat Construction and Development.
 
 **ORASCOM Constructions**
 *General Engineer Intern*							**Summer 2016**
-QA, Safety, Planning and project control, Risk management and Contracts.
+- QA, Safety, Planning and project control, Risk management and Contracts.
 
 # Skills
 
@@ -117,7 +116,25 @@ QA, Safety, Planning and project control, Risk management and Contracts.
 
 # SOCIETY ACITIVITIES
 
-Technical and Logistics member, Institute of Electrical and Electronics Engineers Suez Canal University Student Branch, 2016-Present. 
+## IEEE SCU Student Branch 
+### Chairman					--		September 2019 – September2020
+- Reformed all committees for doing sessions, workshops, and events.
+- Led the branch to organize "Algo-mania" competition.
+### Technical and Logistics Member			--	September 2016 –September2019
+- Organized “Techno-B” Mega event.
+- Instructed Embedded Systems training sessions for freshmen.
+## SCU Racing Team 
+### Formula Team Leader 					--	    October 2018 – July 2019
+- Led the team to successfully compete for the first time.
+- Completed all paper works of travelling and accommodation.   
+### Shell Electrical Team Head				--	      August 2018 – May 2019
+- Led the electrical team to establish the system of electric vehicle.
+- Built the motor driver circuit on Proteus then on a PCB.
+- Assembled all electrical systems alone in Malaysia.
+### EVER Electrical Team Head			--		January 2018 – October 2018
+- Led the electrical team to establish the system of an electric car.
+- Optimized power consumption by 20% on MATLAB.
+- Scored as the 2nd in EVER competition.
 
 # AWARDS AND HONORS
 
