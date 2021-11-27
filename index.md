@@ -123,6 +123,7 @@ Mohanad Mohsen is a Electronics and Communications Engineer and M.Sc. student.
 ### Technical and Logistics Member			--	September 2016 –September2019
 - Organized “Techno-B” Mega event.
 - Instructed Embedded Systems training sessions for freshmen.
+
 ## SCU Racing Team 
 ### Formula Team Leader 					--	    October 2018 – July 2019
 - Led the team to successfully compete for the first time.
